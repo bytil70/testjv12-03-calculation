@@ -48,6 +48,7 @@ console.log = function() {
 
 // 您的 JavaScript 程式碼，包含 console.log()
 console.log('Hello from JavaScript!');
+console.log('----------------------');
 let myVariable = 4;
 console.log('變數 myVariable 的值是：', myVariable);
 
